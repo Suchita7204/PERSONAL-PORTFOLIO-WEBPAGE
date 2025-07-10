@@ -50,5 +50,17 @@ Optional advanced enhancements can include integration with third-party services
 In conclusion, the Personal Portfolio Website is a crucial tool for modern professionals looking to establish a digital presence. It blends design and development skills, showcasing both technical proficiency and creativity. Whether used for academic purposes, freelancing, or job applications, this project represents a polished, personal branding solution that can be continually updated as the individual’s career grows.
 
 *OUTPUT*
+<img width="1835" height="865" alt="Image" src="https://github.com/user-attachments/assets/6ab4caca-930f-46ce-ad4a-77af7464e52e" />
+
+<img width="1908" height="810" alt="Image" src="https://github.com/user-attachments/assets/0f7a5cf2-123a-4dd0-89e6-0be0fc089c74" />
+
+
+<img width="1085" height="905" alt="Image" src="https://github.com/user-attachments/assets/47cf726c-e5f6-4a2c-a0f2-50c4588822a1" />
+
+<img width="1911" height="509" alt="Image" src="https://github.com/user-attachments/assets/dc8e8636-b78f-4213-be8f-f262e2eff816" />
+
+![Image](https://github.com/user-attachments/assets/bacdc571-6aea-4ebd-b45d-479fdd06b59e)
+
+![Image](https://github.com/user-attachments/assets/27de341d-90a1-4634-aa2a-e196abfe4dbf)
 
 
